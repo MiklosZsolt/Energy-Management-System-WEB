@@ -1,0 +1,1 @@
+export const HOST_PERSON = "http://localhost:8080/person"

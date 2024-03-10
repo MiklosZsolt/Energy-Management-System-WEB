@@ -1,0 +1,10 @@
+.container {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Acest lucru va face ca imaginea să rămână fixată pe ecran. */
+  height: 100vh; /* Asigură-te că imaginea acoperă înălțimea întregului ecran. */
+  margin: 0;
+  padding: 0;
+
+  
+  }

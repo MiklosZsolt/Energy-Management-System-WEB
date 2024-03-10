@@ -1,0 +1,9 @@
+.custom-datagrid {
+    border: 2px solid #000;  /* Ajustează grosimea și culoarea cadrului tabelului */
+  }
+  
+  .selected-row {
+    background-color: #007acc;  /* Culorile rândurilor selectate (opțional) */
+    color: #fff;
+  }
+  

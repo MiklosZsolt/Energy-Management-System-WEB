@@ -1,0 +1,5 @@
+ro\tuc\ds2020\Ds2020Application.class
+ro\tuc\ds2020\repositories\IPersonRepository.class
+ro\tuc\ds2020\entities\Person.class
+ro\tuc\ds2020\services\PersonService.class
+ro\tuc\ds2020\controllers\PersonController.class
